@@ -36,7 +36,7 @@ gclone_para_override = Leave it Blank
 
 🔶 Running it in Heroku:-
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Sam2541/MayurGC)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Vdarth5678/GCMSuccess)
 
 1. Create one app in Heroku
 2. Push the Files to Heroku using Heroku CLI
